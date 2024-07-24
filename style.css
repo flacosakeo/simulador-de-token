@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    margin: 3%;
+}
+#cajatemporizador{
+    margin: 10vh 10vw;
+}
+#botones{
+    max-width: max-content;
+    background-color: darkblue;
+    padding: 1%;
+    border-radius: 20px;
+}
